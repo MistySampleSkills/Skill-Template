@@ -4,7 +4,7 @@ Each repository in [MistyCommunitySkills](https://github.com/MistyCommunitySkill
 ## Misty's Skills
 
 At their most most basic, skills for Misty require two files:
-* a .js code file with the running code to execute in the skill
+* a .js code file with the code to execute in the skill
 * a .json meta file with information that enables Misty to understand what the skill does and how to execute the code
 
 To upload a skill to your robot, compress the code and meta files into a .zip archive. Upload the archive to Misty using her REST API.
