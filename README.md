@@ -21,7 +21,7 @@ It's good practice to include a README.md in the top level directory of a skill 
 * **assets** - A sample folder to demonstrate how you might share image or audio assets used in your skill with other developers.
 * **README.md** - Information about using this skill and contributing to this repository.
 
-Be sure to join the [Misty Community](https://community.mistyrobotics.com/) for more discussion about skill development!
+Check out [Misty's documentation](https://docs.mistyrobotics.com/) for more information about developing skills. And be sure to join the [Misty Community](https://community.mistyrobotics.com/) for discussions about Misty skill development and robotics in general!
 
 ***Note:** Skills contributed to [MistyCommunitySkills](https://github.com/MistyCommunitySkills)  by members of the Misty Robotics organization use the [Apache License](http://www.apache.org/licenses/LICENSE-2.0), but we encourage you to choose your own license for the skills that you create.*
 
