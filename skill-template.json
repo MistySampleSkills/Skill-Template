@@ -1,0 +1,13 @@
+{
+	"Name": "skill-template",
+	"UniqueId" : "96aff24b-1206-4810-9004-be9b9815b967",
+	"Description": "A sample skill for Misty",
+	"StartupRules": ["Manual", "Robot"],
+	"Language": "javascript",
+	"BroadcastMode": "verbose",
+	"TimeoutInSeconds": 300,
+	"CleanupOnCancel": false,
+	"WriteToLog": false,
+	"Parameters": {
+	}
+}
