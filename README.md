@@ -35,5 +35,5 @@ It's good practice to include a README.md in the top level directory of a skill 
 
 Check out [Misty's documentation](https://docs.mistyrobotics.com/) for more information about developing skills. And be sure to join the [Misty Community](https://community.mistyrobotics.com/) for discussions about Misty skill development and robotics in general!
 
-***Note:** Skills contributed to [MistyCommunitySkills](https://github.com/MistyCommunitySkills)  by members of the Misty Robotics organization use the [Apache License](http://www.apache.org/licenses/LICENSE-2.0), but we encourage you to choose your own license for the skills that you create.*
+***Note:** Skills contributed to [MistySampleSkills](https://github.com/MistySampleSkills)  by members of the Misty Robotics organization use the [Apache License](http://www.apache.org/licenses/LICENSE-2.0), but we encourage you to choose your own license for the skills that you create.*
 
