@@ -11,7 +11,7 @@ At their most most basic, on-robot skills require two files:
 
 ### Uploading a Skill
 
-To upload a skill to your robot, compress the code and meta files into a .zip archive. Upload the compressed file to Misty using her [REST API](https://docs.mistyrobotics.com/coding/using-local-skills/rest/#saveskilltorobot-alpha).
+To upload a skill to your robot, compress the code and meta files into a .zip archive. Upload the compressed file to Misty using her [REST API](https://docs.mistyrobotics.com/docs/reference/rest/#saveskilltorobot).
 
 ### Assets
 
