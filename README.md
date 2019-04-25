@@ -1,11 +1,15 @@
 # Skill-Template
-Each repository in [MistyCommunitySkills](https://github.com/MistyCommunitySkills) is an individual skill for Misty. This repository is a template for creating and contributing your own skills.
+Each repository in [MistySampleSkills](https://github.com/MistySampleSkills) is an individual skill for Misty. This repository is a template for creating and contributing your own skills.
 
 ## Misty's Skills
 
-At their most most basic, skills for Misty require two files:
+A skill is an application you develop for the Misty platform. You can write skills for Misty using her REST API or her on-robot JavaScript API. This template shows the structure of code files used for skills written Misty's on-robot JavaScript API. These skills run locally on Misty. 
+
+At their most most basic, on-robot skills require two files:
 * a .js code file with the code to execute in the skill
 * a .json meta file with information that enables Misty to understand what the skill does and how to execute the code
+
+For more about skills, see [Introduction to Skills](https://docs.mistyrobotics.com/docs/skills/introduction/) in the documentation.
 
 ### Uploading a Skill
 
