@@ -15,7 +15,7 @@ To upload a skill to your robot, compress the code and meta files into a .zip ar
 
 ### Assets
 
-Some skills use image or audio assets that a user will need to upload to Misty before executing the skill. You can make these files available by placing them in your skill's repository, at the same directory level as your code and meta file.
+Some skills use image or audio assets that a user will need to upload to Misty before executing the skill. You can make these files available by placing them in your skill's repository, at the same directory level as your code and meta files.
 
 ### Code for Other Devices
 
