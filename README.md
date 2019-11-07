@@ -28,7 +28,6 @@ It's good practice to include a README.md in the top level directory of a skill 
 * **skill-template.json** - The meta file for the skill-template sample skill.
 * **skill-template.zip** - A .zip archive with the code and meta files for the skill-template sample skill. Upload this file to Misty to run the skill-template skill on your robot.
 * **LICENSE** - License information for the files in this repository.
-* **assets** - A sample folder to demonstrate how you might share image or audio assets used in your skill with other developers.
 * **README.md** - Information about using this skill and contributing to this repository.
 
 ### Docs & Community
